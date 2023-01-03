@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Nuovo Pilota";
+}
+
+@model PilotaViewModel
+<div class="text-center">
+    <h1 class="text-primary mb-3">Nuovo Pilota</h1>
+    <form action="/home/NuovoPilota" method="post">
+        <input asp-for="LastName" placeholder="Cognome" />
+        <span asp-validation-for="LastName"></span>
+        <input asp-for="FirstName" placeholder="Nome" />
+        <span asp-validation-for="FirstName"></span>
+        <select id="team" name="TeamId">
+            @foreach (var team in Model.Teams)
+            {
+                <option value=@team.TeamId>@team.Name</option>
+            }
+        </select>
+        <input asp-for="Score" value="" placeholder="Score" >
+        <input type="submit" value="Inserisci">
+    </form>
+</div>

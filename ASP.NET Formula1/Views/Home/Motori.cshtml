@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Motori";
+}
+@model IEnumerable<Engine>
+<div class="text-center">
+    <h1 class="text-primary mb-3" >MOTORI</h1>
+    <a href="/home/NuovoMotore">Nuovo Motore</a> <br /><br />
+    @foreach (var motori in Model)
+    {
+        <a class="text-secondary" href="/home/scuderiepermotore/@motori.EngineId">@motori.Name</a> <br />
+    }
+</div>

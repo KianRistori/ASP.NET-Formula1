@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Motori";
+}
+@model ScuderiaPiloti
+<div class="text-center">
+    <h1 class="text-primary mb-3">PILOTI</h1>
+    <a href="/home/NuovoPilota">Nuovo Pilota</a>
+    <br /><br />
+    <h6 class="text-info mb-4">@Model.NomeTeam</h6>
+    @foreach (var pilota in Model.Drivers)
+    {
+        <p class="text-secondary">@pilota.FullName</p>
+    }
+</div>

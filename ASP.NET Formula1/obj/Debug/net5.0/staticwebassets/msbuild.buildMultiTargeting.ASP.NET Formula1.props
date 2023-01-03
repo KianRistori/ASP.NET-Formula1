@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ASP.NET Formula1.props" />
+</Project>

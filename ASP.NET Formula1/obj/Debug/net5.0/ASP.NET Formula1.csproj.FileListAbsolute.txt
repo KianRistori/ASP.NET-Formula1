@@ -1,0 +1,95 @@
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/appsettings.Development.json
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/appsettings.json
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.exe
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.deps.json
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.runtimeconfig.json
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.runtimeconfig.dev.json
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.dll
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ref/ASP.NET Formula1.dll
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.pdb
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.Views.dll
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.Views.pdb
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.GeneratedMSBuildEditorConfig.editorconfig
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.AssemblyInfoInputs.cache
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.AssemblyInfo.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.csproj.CoreCompileInputs.cache
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.MvcApplicationPartsAssemblyInfo.cache
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.RazorAssemblyInfo.cache
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.RazorAssemblyInfo.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/staticwebassets/ASP.NET Formula1.StaticWebAssets.Manifest.cache
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/staticwebassets/ASP.NET Formula1.StaticWebAssets.xml
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/scopedcss/bundle/ASP.NET Formula1.styles.css
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.TagHelpers.input.cache
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.TagHelpers.output.cache
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.RazorCoreGenerate.cache
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Home/Motori.cshtml.g.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Home/NuovaScuderia.cshtml.g.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Home/NuovoMotore.cshtml.g.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Home/NuovoPilota.cshtml.g.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Home/Piloti.cshtml.g.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Home/Scuderie.cshtml.g.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.RazorTargetAssemblyInfo.cache
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.RazorTargetAssemblyInfo.cs
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.Views.pdb
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.dll
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ref/ASP.NET Formula1.dll
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.pdb
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.genruntimeconfig.cache
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.csproj.CopyComplete
+D:/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.csproj.AssemblyReference.cache
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/appsettings.Development.json
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/appsettings.json
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.StaticWebAssets.xml
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.deps.json
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.runtimeconfig.json
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.runtimeconfig.dev.json
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.dll
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.pdb
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.Views.dll
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/bin/Debug/net5.0/ASP.NET Formula1.Views.pdb
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.csproj.AssemblyReference.cache
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.AssemblyInfoInputs.cache
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.AssemblyInfo.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.csproj.CoreCompileInputs.cache
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.MvcApplicationPartsAssemblyInfo.cache
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.RazorAssemblyInfo.cache
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.RazorAssemblyInfo.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/scopedcss/bundle/ASP.NET Formula1.styles.css
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/staticwebassets/ASP.NET Formula1.StaticWebAssets.Manifest.cache
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/staticwebassets/ASP.NET Formula1.StaticWebAssets.Pack.cache
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/staticwebassets/msbuild.ASP.NET Formula1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/staticwebassets/msbuild.build.ASP.NET Formula1.props
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.ASP.NET Formula1.props
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.ASP.NET Formula1.props
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.TagHelpers.input.cache
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.TagHelpers.output.cache
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.RazorCoreGenerate.cache
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Home/Motori.cshtml.g.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Home/NuovaScuderia.cshtml.g.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Home/NuovoMotore.cshtml.g.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Home/NuovoPilota.cshtml.g.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Home/Piloti.cshtml.g.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Home/Scuderie.cshtml.g.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.RazorTargetAssemblyInfo.cache
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.RazorTargetAssemblyInfo.cs
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.Views.pdb
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.dll
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/refint/ASP.NET Formula1.dll
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.pdb
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.genruntimeconfig.cache
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ref/ASP.NET Formula1.dll
+/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/obj/Debug/net5.0/ASP.NET Formula1.csproj.CopyComplete

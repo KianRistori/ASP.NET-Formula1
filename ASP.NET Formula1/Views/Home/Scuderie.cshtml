@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Scuderie";
+}
+@model IEnumerable<Team>
+
+<div class="text-center">
+    <h1 class="text-primary mb-3">SCUDERIE</h1>
+    <a href="/home/NuovaScuderia">Nuova Scuderia</a>
+    <br /><br />
+    @foreach (var team in Model)
+    {
+        <a class="mb-2 text-secondary" href="/home/pilotiperscuderia/@team.TeamId">@team.Name</a><br />
+    }
+</div>

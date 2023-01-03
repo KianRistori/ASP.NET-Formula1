@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Two2/ASICtM8tVfkB5xcZOyDipFzDcl8rBEZOFlzp2E5aA2e4Kvv1zUp1Bm8IIP04jFGyIvEpIJznwnMnT/Iw==",
+  "success": true,
+  "projectFilePath": "/Users/kianristori/Documents/USB/5INF/INFORMATICA/LABORATORIO/ESERCIZI/ASP.NET Formula1/ASP.NET Formula1/ASP.NET Formula1.csproj",
+  "expectedPackageFiles": [
+    "/Users/kianristori/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/kianristori/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/kianristori/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

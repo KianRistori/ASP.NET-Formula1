@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Nuovo Motore";
+}
+@model IEnumerable<Engine>
+<div class="text-center">
+    <h1 class="text-primary mb-3" >Nuovo Motore</h1>
+    <form action="/home/NuovoMotore" method="post">
+        <input placeholder="Motore" type="text" name="name" />
+        <input type="submit" value="Inserisci">
+    </form>
+</div>

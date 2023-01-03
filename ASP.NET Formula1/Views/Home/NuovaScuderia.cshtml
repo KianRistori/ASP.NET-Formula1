@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Nuova Scuderia";
+}
+
+@model ScuderiaViewModel
+<div class="text-center">
+    <h1 class="text-primary mb-3">Nuova Scuderia</h1>
+    <form method="post" action="/home/NuovaScuderia">
+        <input type="text" placeholder="Nome" name="teamname"><br><br>
+        <label for="engine">Motore</label>
+        <select id="engine" name="EngineId">
+            @foreach (var motore in Model.engines)
+            {
+                <option value=@motore.EngineId>@motore.Name</option> 
+            }
+        </select>
+        <input type="submit" value="Inserisci">
+
+    </form>
+
+</div>

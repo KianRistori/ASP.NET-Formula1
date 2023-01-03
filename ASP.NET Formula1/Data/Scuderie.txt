@@ -1,0 +1,5 @@
+1;Ferrari;1
+2;Mercedes;2
+3;Renault;3
+4;Red Bull;4
+5;McLaren;3
